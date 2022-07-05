@@ -1,3 +1,6 @@
+# 具体文档可以查看
+[学习vue-jest文档](https://hxyxyz.top/index.php/js/339.html)
+
 # demos
 
 ## Project setup
@@ -27,3 +30,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
